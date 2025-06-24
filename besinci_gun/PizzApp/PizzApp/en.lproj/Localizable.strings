@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  PizzApp
+
+  Created by beyyzgur on 21.06.2025.
+  
+*/
+
+"pizzaBaslik" = "Beef Cheese";
+"peynirYazi" = "Cheese";
+"sucukYazi" = "Sausage";
+"zeytinYazi" = "Olive";
+"biberYazi" = "Pepper";
+"teslimatSure" = "20 min";
+"teslimatBaslik" = "Delivery";
+"pizzaAciklama" = "Meat lover, get ready to meat your pizza!";
+"fiyat" = "$ 4,99";
+"butonYazi" = "ADD TO CART";
+
